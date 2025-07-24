@@ -35,6 +35,11 @@ Here are some of the tools and technologies I work with:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-00C49F?style=for-the-badge&logo=openai&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-4CAF50?style=for-the-badge&logo=tableau&logoColor=white)
+![Analytics](https://img.shields.io/badge/Analytics-0077B6?style=for-the-badge&logo=googleanalytics&logoColor=white)
+
 
 ---
 
