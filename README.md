@@ -2,31 +2,56 @@
 
 ---
 
-I'm a passionate **Computer Science** enthusiast always eager to explore new technologies and expand my knowledge.
+🎓 A passionate **Computer Science** enthusiast who loves building, learning, and exploring new technologies.
 
 ---
 
-## 🌱 What I'm Currently Learning
+## 💡 About Me
 
-I'm diving deep into **Advanced Python**, mastering its intricacies and exploring its vast capabilities.
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
----
-
-## 🚀 My Interests
-
-My curiosity lies at the intersection of various Computer Science domains, and I'm particularly interested in:
-
-* **Software Development**
-* **Data Science**
-* **Machine Learning**
+- 💻 I enjoy crafting clean and efficient code.
+- 🤖 I'm curious about how machines learn and make decisions.
+- 📚 Constantly expanding my knowledge across the tech stack.
 
 ---
 
-## 📫 Let's Connect!
+## 🚀 Interests & Focus
 
-The best way to reach me is via email: [sadhasivam.a07@gmail.com](mailto:sadhasivam.a07@gmail.com)
+I’m currently focused on growing in areas like:
+
+- 🧑‍💻 **Software Development**
+- 📊 **Data Science & Analytics**
+- 🤖 **Machine Learning & AI**
+- 🧠 **Personal Assistant Bots & Automation**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+Here are some of the tools and technologies I work with:
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![LangChain4j](https://img.shields.io/badge/LangChain4j-009688?style=for-the-badge&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sadha07&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadha07&layout=compact&theme=github_dark&hide_border=true" height="150"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+Feel free to reach out, collaborate, or just say hi 👋
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sadhasivam.a07@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sadha07)
+
 ---
