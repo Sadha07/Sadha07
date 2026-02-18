@@ -43,15 +43,6 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sadha07&show_icons=true&theme=github_dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadha07&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 📫 Let's Connect
 
 Feel free to reach out, collaborate, or just say hi 👋
